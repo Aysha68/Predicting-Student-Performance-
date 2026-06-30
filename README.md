@@ -16,3 +16,18 @@ Ensures Scrum practices are followed and removes obstacles.
 - Data Scientist
 - Python Developer
 - Tester
+## Sprint 1 Review
+
+### Sprint Goal
+Prepare the student dataset for machine learning.
+
+### Completed Tasks
+- ✅ Collected student dataset
+- ✅ Cleaned missing values
+- ✅ Performed exploratory data analysis (EDA)
+
+### Deliverable
+A cleaned and prepared dataset ready for model training.
+
+### Feedback
+The dataset is ready. In the next sprint, the team will build and evaluate the machine learning model.
