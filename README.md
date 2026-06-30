@@ -28,6 +28,9 @@ Prepare the student dataset for machine learning.
 - ## User Story
 
 As a data analyst, I want to visualize student scores by study time so that I can identify the factors affecting student performance.
+## Retrospective Reflection
+
+During this Scrum simulation, the project was organized clearly using GitHub Projects. Creating the product backlog and selecting tasks for Sprint 1 made it easy to plan the work. One area for improvement in the next sprint would be assigning tasks more efficiently and tracking progress more frequently. Writing user stories could also be more detailed to better capture user needs. Git helped keep track of project changes through commits, while Scrum provided a structured way to plan and manage tasks. Together, Git and Scrum improve collaboration, organization, and productivity in Data Science projects.
 
 ### Deliverable
 A cleaned and prepared dataset ready for model training.
