@@ -25,6 +25,9 @@ Prepare the student dataset for machine learning.
 - ✅ Collected student dataset
 - ✅ Cleaned missing values
 - ✅ Performed exploratory data analysis (EDA)
+- ## User Story
+
+As a data analyst, I want to visualize student scores by study time so that I can identify the factors affecting student performance.
 
 ### Deliverable
 A cleaned and prepared dataset ready for model training.
